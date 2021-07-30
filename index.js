@@ -10,7 +10,7 @@ console.log("Hello World");
 
 newValue = 0;
 
-AddNums(20, 30);
+AddNums(2000, 3000);
 
 console.log(newValue);
 
