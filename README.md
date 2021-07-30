@@ -13,6 +13,7 @@ Use the terminal to run the JS file using node.
 For example open the terminal in VS Code (An IDE)   
 type: node index.js
 
+## Course Content by Week
 
 |Week Number | Content|
 |------------ | -------------|
