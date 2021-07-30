@@ -14,7 +14,7 @@ For example open the terminal in VS Code (An IDE)
 type: node index.js
 
 
-## |Week Number | Content|
+|Week Number | Content|
 |------------ | -------------|
 |1|Intro to JS and NodeJS|
 |2| Version Control with Git|
