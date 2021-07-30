@@ -15,6 +15,7 @@ type: node index.js
 
 
 ## Week Number | Content
+------------ | -------------
 1|Intro to JS and NodeJS
 2| Version Control with Git
 3 | NodeJS as a server
