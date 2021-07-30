@@ -6,7 +6,6 @@ var AddNums = function(x, y){
 
 }
 
-console.log("Hello World");
 
 newValue = 0;
 
