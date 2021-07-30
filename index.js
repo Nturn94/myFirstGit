@@ -14,3 +14,5 @@ AddNums(2000, 3000);
 
 console.log(newValue);
 
+AddNums(2, 7);
+console.log(newValue);
