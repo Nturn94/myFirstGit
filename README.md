@@ -21,3 +21,6 @@ type: node index.js
 |2| Version Control with Git|
 |3 | NodeJS as a server|
 |4 | Angular|
+
+
+2022
