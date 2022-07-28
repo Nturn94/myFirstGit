@@ -16,3 +16,5 @@ console.log(newValue);
 
 AddNums(2, 7);
 console.log(newValue);
+
+// code that adds numbers
